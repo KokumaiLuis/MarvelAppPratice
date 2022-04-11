@@ -1,0 +1,6 @@
+module Pods_MarvelAppPratice {
+  umbrella header "Pods-MarvelAppPratice-umbrella.h"
+
+  export *
+  module * { export * }
+}
