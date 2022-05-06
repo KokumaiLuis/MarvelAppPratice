@@ -28,4 +28,4 @@ All data is received from marvel API.
 ## 📝 License
 This project is under license. See the file [LICENÇA](LICENSE) for more details.
 
-[⬆ Back to the top](https://github.com/KokumaiLuis/AppBrowserPratice)<br>
+[⬆ Back to the top](https://github.com/KokumaiLuis/MarvelAppPratice)<br>
